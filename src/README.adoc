@@ -1,0 +1,20 @@
+:icons: font
+:sectnums:
+:sectanchors:
+
+=== Prerequisites
+** TIP: Please check if you have all required tools installed on your computer
+
+* http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html[JDK 10^]
+* https://www.scala-lang.org/download/[Scala 2.12.6^]
+* http://www.scala-sbt.org/[SBT^]
+
+=== Run unit tests
+[source,bash]
+-----------------
+sbt test
+-----------------
+
+[dedication]
+== Credits
+CAUTION: Mariusz Dubielecki dubielecki.mariusz@gmail.com http://cranberrysoft.com
