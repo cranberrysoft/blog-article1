@@ -2,7 +2,6 @@ package com.cranberrysoft.blog.article.problem1
 
 import com.cranberrysoft.blog.article.problem1.functional.FunctionalSolution
 import com.cranberrysoft.blog.article.problem1.imperative.ImperativeSolution
-import com.cranberrysoft.blog.article.problem2.Sol
 import org.scalatest._
 
 class SolutionTest extends fixture.FlatSpec with GivenWhenThen {

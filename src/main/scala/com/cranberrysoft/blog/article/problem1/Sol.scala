@@ -1,6 +1,4 @@
-package com.cranberrysoft.blog.article.problem2
-
-import com.cranberrysoft.blog.article.problem1.Solution
+package com.cranberrysoft.blog.article.problem1
 
 object Sol {
   def apply(): Sol = new Sol()
